@@ -108,7 +108,7 @@ export default function App() {
       >
         {/* RF-01: Encabezado con nombre de la empresa y bienvenida */}
         <View style={styles.header}>
-          <Text style={styles.empresa}>AgroIkea Mosquera</Text>
+          <Text style={styles.empresa}>AgroExito Mosquera</Text>
           <Text style={styles.bienvenida}>
             Bienvenido Registra aquí los pedidos de tus clientes.
           </Text>
